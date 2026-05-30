@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfncrypt",
+        "uuid": 3067332,
+        "checksum": "14nag"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
